@@ -106,6 +106,5 @@ rentcols = ['계약일', '자치구명', '법정동명', '주소', '건물명', 
         '임대료(만원)', '계약기간', '신규갱신여부', '계약갱신권사용여부', '종전 보증금', '종전 임대료', '건축년도',
         '건물용도']
 
-apikey = "28010AC2-7187-3642-BC8C-816A34DDF7CC"
 preprocessing('rent_test.csv', 'rent_test_result.csv', rentcols, apikey)
 preprocessing('trade_test.csv', 'trade_test_result.csv', tradecols, apikey)
