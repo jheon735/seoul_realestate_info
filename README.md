@@ -14,4 +14,11 @@
   
 - update_data.py
   - 공공데이터포털 국토교통부의 주택형태별 매매, 전월세 api를 활용하여 매달 새로운 정보를 업데이트 할 수 있도록 전처리 해주는 프로그램
-  - 
+  - 아파트 매매 실거래 자료 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058747
+  - 아파트 전월세 자료 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058017
+  - 오피스텔 매매 신고조회 서비스 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058452
+  - 오피스텔 전월세 신고조회 서비스 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15059249
+  - 단독/다가구 매매 실거래 자료 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058022
+  - 단독/다가구 전월세 자료 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058352
+  - 연립다세대 매매 실거래 자료 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058038
+  - 연립다세대 전월세 자료 : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15058016
